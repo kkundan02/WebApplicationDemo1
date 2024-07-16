@@ -10,4 +10,5 @@ namespace WebApplication2.DataLayer
         public DbSet<Message> Messages { get; set; }
     }
 }
+//hello karthik
 
